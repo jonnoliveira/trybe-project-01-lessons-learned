@@ -6,3 +6,9 @@
 body{
   background-color: rgb(253, 251, 251);
 }
+
+header{
+  border: 3px solid red;
+  position: fixed;
+  top:0;
+}
