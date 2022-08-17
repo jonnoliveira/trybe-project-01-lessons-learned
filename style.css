@@ -1,6 +1,6 @@
 *{
   margin: 0;
-  padding: 0;
+  /* padding: 0; */
 }
 
 body{
@@ -11,4 +11,8 @@ header{
   border: 3px solid red;
   position: fixed;
   top:0;
+}
+
+img{
+  width: 200px;
 }
