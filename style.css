@@ -16,6 +16,7 @@ h2,
 h3 {
   font-family: 'DynaPuff', cursive;
   border: 3px solid red;
+  color: #512663;
 
 }
 
@@ -25,16 +26,25 @@ main {
 
 }
 
-.container {
+.first-container {
   border: 3px solid blue;
   margin: 5px;
   height: 510px;
 
 }
 
+.second-container {
+  border: 3px solid blue;
+  margin: 5px;
+  height: 540px;
+
+}
+
 .apresentation {
 margin: 2% 2%;
 }
+
+/* PRIMEIRA VIEW DO SITE */
 
 /* HEADER */
 
@@ -52,7 +62,6 @@ header h1 {
   font-size: 65px;
   padding: 0;
   margin: 50px;
-  color: #512663;
   text-shadow: 2px 2px #5673a3;
 
 }
@@ -110,4 +119,66 @@ aside p {
 .description p {
   padding: 10px;
   line-height: 30px;
+
+}
+/* SEGUNDA VIEW DO SITE*/
+
+.gap-junction h2 {
+  text-align: center;
+  background-image: linear-gradient(#bdfcfc, #3dc7c5, #bdfcfc);
+  text-shadow: 2px 2px #8dade0;
+  margin: 0;
+  padding: 40px;
+
+}
+
+.second-container {
+  text-align: center;
+}
+
+.second-container li {
+  font-size: 20px;
+
+}
+
+.present-skills {
+  border: 2px solid red;
+  display: inline-block;
+  width: 48%;
+
+}
+
+.present-skills h3 {
+  margin: 40px;
+
+}
+
+.present-skills ol {
+  margin: 40px;
+
+}
+
+.title-section { 
+  text-align: center;
+  padding: 10px;
+  font-size: 1.5em;
+
+}
+
+.future-skills {
+  border: 2px solid red;
+  display: inline-block;
+  width: 48%;
+
+}
+
+.future-skills h3 {
+  margin: 40px;
+
+}
+
+.future-skills ul {
+  margin: 40px;
+  list-style: none;
+
 }
