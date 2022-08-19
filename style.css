@@ -30,7 +30,7 @@ h3:hover {
 }
 
 main {
-  margin-top: 220px;
+  margin-top: 190px;
 
 }
 
@@ -57,7 +57,7 @@ header {
 header h1 {
   font-size: 65px;
   padding: 0;
-  margin: 35px;
+  margin: 30px;
   text-shadow: 2px 2px rgb(86, 115, 163);
 
 }
@@ -68,15 +68,19 @@ h1:hover {
 
 }
 
+.apresentation{
+  height: 65vh;
+  text-align: center;
+}
+
 /* TEXT - Left */
 
 aside {
   display: inline-block;
   text-align: center;
-  width: 33%;
+  width: 30%;
   position: relative;
-  bottom: 12vh;
-
+  bottom: 3vh;
 }
 
 aside p {
@@ -88,15 +92,21 @@ aside p {
 
 /* SOCIAL MEDIA ICONS */
 
-.social-media {
-  width: 40px;
+.icons { 
   margin: 10px;
+
+}
+
+.social-media {
+  width: 30px;
+  margin-right: 40px;
   display: inline-block;
 
 }
 
 .social-media:hover {
-  width: 2%;
+  width: 4%;
+  transition: 0.5s;
 
 }
 
@@ -108,17 +118,16 @@ aside p {
 }
 
 .myself-image img {
-  width: 360px;
+  width: 320px;
   border-radius: 50%;
   position: relative;
-  top: 10px;
   filter: drop-shadow(10px 10px 12px gray);
 
 }
 
 .myself-image img:hover {
-  width: 400px;
-  transition: 0.8s;
+  width: 350px;
+  transition: 0.9s;
 
 }
 
@@ -126,11 +135,17 @@ aside p {
 
 .description {
   text-align: center;
-  width: 35%;
+  width: 40%;
   display: inline-block;
-  font-size: 17px;
+  font-size: 19px;
+  margin-top: 60px;
 
 }
+
+/* .description h2, p {
+  margin: auto;
+
+} */
 
 .description h2 {
   margin-left: 50px;
