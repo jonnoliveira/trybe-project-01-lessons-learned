@@ -69,7 +69,7 @@ h1:hover {
 }
 
 .apresentation{
-  height: 65vh;
+  height: 60vh;
   text-align: center;
 }
 
@@ -80,13 +80,13 @@ aside {
   text-align: center;
   width: 30%;
   position: relative;
-  bottom: 3vh;
+  bottom: 10vh;
 }
 
 aside p {
   padding: 10px;
   line-height: 30px;
-  font-size: 21px;
+  font-size: 19px;
 
 }
 
@@ -137,8 +137,8 @@ aside p {
   text-align: center;
   width: 40%;
   display: inline-block;
-  font-size: 19px;
-  margin-top: 60px;
+  font-size: 17px;
+  margin-top: 5px;
 
 }
 
