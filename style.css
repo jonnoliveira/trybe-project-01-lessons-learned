@@ -1,7 +1,7 @@
 * {
   margin: 0;
   padding: 0;
-  font-family: "Poppins", sans-serif;
+  font-family: 'Poppins', sans-serif;
 }
 
 /* GENERAL SETS */
@@ -12,7 +12,7 @@ body {
 }
 
 header, h1, h2, h3 {
-  font-family: "DynaPuff", cursive;
+  font-family: 'DynaPuff', cursive;
   color: rgb(81, 38, 99);
 
 }
@@ -68,9 +68,10 @@ h1:hover {
 
 }
 
-.apresentation{
+.apresentation {
   height: 60vh;
   text-align: center;
+
 }
 
 /* TEXT - Left */
@@ -92,7 +93,7 @@ aside p {
 
 /* SOCIAL MEDIA ICONS */
 
-.icons { 
+.icons {
   margin: 10px;
 
 }
@@ -158,8 +159,8 @@ aside p {
 
 .gap-junction h2 {
   text-align: center;
-  background-image: linear-gradient(rgb(255, 255, 255), rgb(29, 167, 164), rgb(255, 255, 255));
-  text-shadow: 2px 2px #8dade0;
+  background-image: linear-gradient( white, rgb(29, 167, 164), white);
+  text-shadow: 2px 2px rgb(141, 173, 224);
   margin: 0;
   padding: 40px;
   font-size: 2em;
