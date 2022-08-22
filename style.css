@@ -1,18 +1,17 @@
 * {
   margin: 0;
   padding: 0;
-  font-family: 'Poppins', sans-serif;
+  font-family: Poppins, sans-serif;
 }
 
 /* GENERAL SETS */
-
 body {
   background-color: rgb(253, 251, 251);
 
 }
 
-header, h1, h2, h3 {
-  font-family: 'DynaPuff', cursive;
+header , h1 , h2 , h3 {
+  font-family: DynaPuff, cursive;
   color: rgb(81, 38, 99);
 
 }
@@ -43,7 +42,6 @@ main {
 /* PRIMEIRA VIEW DO SITE */
 
 /* HEADER */
-
 header {
   position: fixed;
   top: 0;
@@ -75,7 +73,6 @@ h1:hover {
 }
 
 /* TEXT - Left */
-
 aside {
   display: inline-block;
   text-align: center;
@@ -92,7 +89,6 @@ aside p {
 }
 
 /* SOCIAL MEDIA ICONS */
-
 .icons {
   margin: 10px;
 
@@ -112,7 +108,6 @@ aside p {
 }
 
 /* IMAGEM */
-
 .myself-image {
   display: inline-block;
 
@@ -133,7 +128,6 @@ aside p {
 }
 
 /* TEXT - Right */
-
 .description {
   text-align: center;
   width: 40%;
@@ -156,7 +150,6 @@ aside p {
 }
 
 /* SEGUNDA VIEW DO SITE */
-
 .gap-junction h2 {
   text-align: center;
   background-image: linear-gradient( white, rgb(29, 167, 164), white);
@@ -229,7 +222,6 @@ aside p {
 /* TERCEIRA VIEW DO SITE */
 
 /* TEBALE */
-
 .feelings-table {
   text-align: center;
   margin: 5px;
@@ -243,7 +235,7 @@ table {
 
 }
 
-table, tr, td {
+table , tr , td {
   border: 3px solid rgb(81, 38, 99, 0.8);
   font-size: 25px;
   padding: 5px;
@@ -251,13 +243,12 @@ table, tr, td {
 
 }
 
-tr, td {
+tr , td {
   width: 90vh;
 
 }
 
 /* FOOTER */
-
 #rodape {
   width: 100%;
   text-align: center;
