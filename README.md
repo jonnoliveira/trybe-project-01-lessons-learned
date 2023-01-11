@@ -23,7 +23,7 @@
  
 <summary>
  
-## 2- Requisitos :arrow_down:
+## 2- Requisitos
 
 </summary>
 
