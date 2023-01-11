@@ -7,11 +7,12 @@
  
 <summary>
   
-## 1- Resumo :arrow_down:
+<details>
+
+## 1- Resumo    :arrow_down:
   
 </summary>
 
-<details>
   
   Utilizei as principais tags HTML para montar a estrutura da página apresentada e estilizei alterando o posicionamento, tamanho, fontes e cores     dos componentes através da aplicação de CSS. Todo esse processo foi muito importante para entender na prática como funciona a estrutura (HTML)     de uma página e como o estilo (CSS) é aplicado nela. Além disso, pude entender a melhor forma de fazer um Layout e aplicar o conceito de Box       Model. Veja mais abaixo!
   
