@@ -63,18 +63,33 @@
 
 </details>
 
-<br />
+# 
+
+<details>
  
+<summary>
+
 ## 3- Nota do Projeto
+ 
+</summary>
 
 ## 100% :heavy_check_mark:
 
 ![Project-Lessons-Learned-Grade](https://github.com/FredericoTP/trybe-project-01-lessons-learned/blob/main/images/project-grade.png)
 
-<br />
+</details> 
+ 
+# 
+
+<details>
+ 
+<summary>
 
 ## 4- Preview
+
+</summary>
+
   
 ![Project-Lessons-Learned-Preview](https://github.com/FredericoTP/trybe-project-01-lessons-learned/blob/main/images/preview.png?raw=true)
   
-</summary>
+</details>
