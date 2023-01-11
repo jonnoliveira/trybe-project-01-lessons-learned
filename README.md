@@ -4,7 +4,7 @@
 
 #
 
-# Acesse o projeto clicando [aqui]([https://fredericotp.github.io/trybe-project-01-lessons-learned/](https://jonnoliveira.github.io/trybe-project-01-lessons-learned/))! :computer:
+# Acesse o projeto clicando [aqui](https://jonnoliveira.github.io/trybe-project-01-lessons-learned/))! :computer:
  
 <details>
  
