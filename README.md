@@ -1,6 +1,7 @@
 # PROJETO 01 - LESSONS LEARNED :computer:
 
 ## Esse projeto pertence ao módulo de `fundamentos` do curso da [Trybe](https://www.betrybe.com/) :green_heart:
+
 #
 
 # Acesse o projeto clicando [aqui]([https://fredericotp.github.io/trybe-project-01-lessons-learned/](https://jonnoliveira.github.io/trybe-project-01-lessons-learned/))! :computer:
