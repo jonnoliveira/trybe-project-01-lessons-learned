@@ -5,10 +5,10 @@
 
 # Acesse o projeto clicando [aqui]([https://fredericotp.github.io/trybe-project-01-lessons-learned/](https://jonnoliveira.github.io/trybe-project-01-lessons-learned/))! :computer:
  
+<details>
+ 
 <summary>
   
-<details>
-
 ## 1- Resumo    :arrow_down:
   
 </summary>
