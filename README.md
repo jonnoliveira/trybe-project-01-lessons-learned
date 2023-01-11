@@ -75,7 +75,7 @@
 
 ## 100% :heavy_check_mark:
 
-![Project-Lessons-Learned-Grade](https://github.com/FredericoTP/trybe-project-01-lessons-learned/blob/main/images/project-grade.png)
+![Project-Lessons-Learned-Grade](https://github.com/jonnoliveira/trybe-project-01-lessons-learned/blob/main/images/grade_lessons_learned.png)
 
 </details> 
  
@@ -90,6 +90,6 @@
 </summary>
 
   
-![Project-Lessons-Learned-Preview](https://github.com/FredericoTP/trybe-project-01-lessons-learned/blob/main/images/preview.png?raw=true)
+![Project-Lessons-Learned-Preview](https://github.com/jonnoliveira/trybe-project-01-lessons-learned/blob/main/images/preview_lessons_learned.png)
   
 </details>
