@@ -6,15 +6,14 @@
 # Acesse o projeto clicando [aqui]([https://fredericotp.github.io/trybe-project-01-lessons-learned/](https://jonnoliveira.github.io/trybe-project-01-lessons-learned/))! :computer:
 
 <details>
-<summary>
   
 ## 1- Resumo 
-
+<summary>
   Utilizei as principais tags HTML para montar a estrutura da página apresentada e estilizei alterando o posicionamento, tamanho, fontes e cores dos componentes através da aplicação de CSS. Todo esse processo foi muito importante para entender na prática como funciona a estrutura (HTML) de uma página e como o estilo (CSS) é aplicado nela. Além disso, pude entender a melhor forma de fazer um Layout e aplicar o conceito de Box Model. Veja mais abaixo!
-  
+ </summary>
+
 ## 2- Requisitos :page_with_curl:
 
-</summary>
 
 ### 1. Adicione uma cor de fundo específica para a página
 
