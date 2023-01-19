@@ -4,257 +4,321 @@
   font-family: Poppins, sans-serif;
 }
 
-/* GENERAL SETS */
 body {
   background-color: rgb(253, 251, 251);
-
 }
 
-header , h1 , h2 , h3 {
+header,
+h1,
+h2,
+h3 {
   font-family: DynaPuff, cursive;
   color: rgb(81, 38, 99);
-
 }
 
-h2:hover {
-  color: rgb(56, 1, 80);
-  transition: 0.5s;
-
-}
-
+h2:hover,
 h3:hover {
   color: rgb(56, 1, 80);
   transition: 0.5s;
-
 }
 
-main {
-  margin-top: 190px;
-
-}
-
-.first-container {
-  margin: 20px;
-  padding: 10px;
-
-}
-
-/* PRIMEIRA VIEW DO SITE */
-
-/* HEADER */
-header {
+.header {
+  padding-top: 5vh;
+  text-align: center;
   position: fixed;
   top: 0;
   width: 100%;
-  text-align: center;
   background-image: linear-gradient(rgb(3, 109, 107), rgb(253, 251, 251));
   z-index: 2;
-
 }
 
 header h1 {
-  font-size: 65px;
-  padding: 0;
-  margin: 30px;
+  font-size: 25px;
   text-shadow: 2px 2px rgb(86, 115, 163);
-
 }
 
-h1:hover {
-  color: rgb(23, 0, 32);
-  transition: 0.5s;
-
-}
-
-.apresentation {
-  height: 60vh;
+.header .icons {
+  margin: 10px;
   text-align: center;
-
 }
 
-/* TEXT - Left */
+.social-media {
+  width: 25px;
+  margin: 10px;
+  display: inline-block;
+}
+
+main {
+  position: absolute;
+  top: 29vh;
+}
+
+.presentation {
+  text-align: center;
+}
+
+.myself-image {
+  display: inline-block;
+}
+
+.myself-image img {
+  width: 150px;
+  border-radius: 50%;
+  filter: drop-shadow(10px 10px 12px gray);
+}
+
 aside {
   display: inline-block;
   text-align: center;
-  width: 30%;
-  position: relative;
-  bottom: 10vh;
+}
+
+aside h2 {
+  margin-top: 10px;
+  font-size: 18px;
 }
 
 aside p {
   padding: 10px;
-  line-height: 30px;
-  font-size: 19px;
-
+  line-height: 25px;
+  font-size: 15px;
 }
 
-/* SOCIAL MEDIA ICONS */
-.icons {
-  margin: 10px;
-
-}
-
-.social-media {
-  width: 30px;
-  margin-right: 40px;
-  display: inline-block;
-
-}
-
-.social-media:hover {
-  width: 4%;
-  transition: 0.5s;
-
-}
-
-/* IMAGEM */
-.myself-image {
-  display: inline-block;
-
-}
-
-.myself-image img {
-  width: 320px;
-  border-radius: 50%;
-  position: relative;
-  filter: drop-shadow(10px 10px 12px gray);
-
-}
-
-.myself-image img:hover {
-  width: 350px;
-  transition: 0.9s;
-
-}
-
-/* TEXT - Right */
 .description {
-  text-align: center;
-  width: 40%;
-  display: inline-block;
-  font-size: 17px;
-  margin-top: 5px;
-
+  margin-top: 10px;
+  margin-bottom: 10px;
 }
 
 .description h2 {
-  margin-left: 50px;
-
+  font-size: 18px;
 }
 
 .description p {
   padding: 10px;
-  line-height: 30px;
-  margin-left: 50px;
-
+  line-height: 25px;
+  font-size: 15px;
 }
 
-/* SEGUNDA VIEW DO SITE */
 .gap-junction h2 {
   text-align: center;
-  background-image: linear-gradient( white, rgb(29, 167, 164), white);
+  background-image: linear-gradient(white, rgba(29, 167, 165, 0.534), white);
   text-shadow: 2px 2px rgb(141, 173, 224);
-  margin: 0;
-  padding: 40px;
-  font-size: 2em;
-
-}
-
-.second-container {
-  text-align: center;
-  margin: 5px;
-  height: 540px;
-
-}
-
-.second-container li {
-  font-size: 20px;
-
-}
-
-.second-container li:hover {
-  font-size: 30px;
-  transition: 0.2s;
-  font-weight: 600;
-}
-
-.present-skills {
-  display: inline-block;
-  width: 50%;
-
-}
-
-.present-skills h3 {
-  margin: 40px;
-
-}
-
-.present-skills ol {
-  margin: 40px;
-
+  padding: 20px;
+  font-size: 18px;
+  line-height: 25px;
 }
 
 .title-section {
+  font-size: 18px;
   text-align: center;
-  padding: 10px;
-  font-size: 1.5em;
-
+  margin: 20px;
 }
 
-.future-skills {
-  display: inline-block;
-  width: 30%;
-  margin-left: 100px;
-
+.licoes_aprendidas {
+  text-align: left;
+  padding-left: 25px;
 }
 
-.future-skills h3 {
-  margin: 40px;
-
+.licoes_aprendidas li {
+  font-size: 14px;
+  margin-top: 7px;
 }
 
-.future-skills ul {
-  margin: 40px;
-  list-style: none;
-
+.licoes_a_aprender {
+  text-align: left;
+  padding-left: 25px;
 }
 
-/* TERCEIRA VIEW DO SITE */
+.licoes_a_aprender li {
+  font-size: 14px;
+}
 
-/* TEBALE */
 .feelings-table {
   text-align: center;
-  margin: 5px;
-  margin-bottom: 50px;
-
+  margin-bottom: 10vh;
 }
 
 table {
   display: inline-block;
-  margin: 3px;
-
 }
 
-table , tr , td {
+table,
+tr,
+td {
   border: 3px solid rgb(81, 38, 99, 0.8);
-  font-size: 25px;
+  font-size: 15px;
   padding: 5px;
   border-collapse: collapse;
-
 }
 
-tr , td {
-  width: 90vh;
-
+tr,
+td {
+  width: 30vw;
 }
 
-/* FOOTER */
-#rodape {
+.rodape {
   width: 100%;
   text-align: center;
-  padding: 10px;
+  padding: 5px;
   background-image: linear-gradient(rgb(253, 251, 251), rgb(3, 109, 107));
   position: fixed;
   bottom: 0;
+  font-size: 10px;
+}
 
+
+@media screen and (min-width: 768px) {
+  header h1 {
+    font-size: 2.5em;
+  }
+
+  main {
+    top: 35vh;
+  }
+
+  .social-media {
+    width: 2.5em;
+  }
+
+  .myself-image img {
+    width: 20vw;
+  }
+
+  aside h2,
+  .description h2,
+  .title-section {
+    font-size: 1.8em;
+  }
+
+  aside p,
+  .description p {
+    font-size: 1.2em;
+    line-height: 6vh;
+  }
+
+  .gap-junction h2 {
+    font-size: 1.8em;
+    line-height: 7vh;
+  }
+
+  .licoes_aprendidas,
+  .licoes_a_aprender {
+    margin-left: 2em;
+  }
+
+  .licoes_aprendidas li,
+  .licoes_a_aprender li {
+    font-size: 1.2em;
+  }
+
+  table,
+  tr,
+  td {
+    font-size: 1.1em;
+  }
+
+}
+
+@media screen and (min-width: 1024px) {
+  header h1 {
+    font-size: 2.5em;
+  }
+
+  main {
+    top: 40vh;
+  }
+
+  .social-media {
+    width: 2.5em;
+  }
+
+  .myself-image {
+    display: inline-block;
+    position: relative;
+    bottom: 20vh;
+  }
+
+  .myself-image img {
+    width: 15vw;
+  }
+
+  aside {
+    display: inline-block;
+    text-align: center;
+    width: 40%;
+    position: relative;
+    bottom: 20vh;
+  }
+
+  .description {
+    text-align: center;
+    width: 40%;
+    display: inline-block;
+    font-size: 17px;
+    margin-top: 5px;
+    position: relative;
+    bottom: 4vh;
+  }
+
+  aside h2,
+  .description h2 {
+    font-size: 1.2em;
+  }
+
+  .title-section {
+    font-size: 1.5em;
+  }
+
+  aside p,
+  .description p {
+    font-size: .8em;
+    line-height: 6vh;
+  }
+
+  .licoes_aprendidas li,
+  .licoes_a_aprender li {
+    font-size: 1.1em;
+  }
+
+  table,
+  tr,
+  td {
+    font-size: 1.1em;
+  }
+
+}
+
+@media screen and (min-width: 1440px) {
+  header h1 {
+    font-size: 3em;
+  }
+
+  main {
+    top: 45vh;
+  }
+
+  .myself-image {
+    bottom: 15vh;
+  }
+
+  .myself-image img {
+    width: 15vw;
+  }
+
+  aside h2,
+  .description h2 {
+    font-size: 1.3em;
+  }
+
+  .title-section {
+    font-size: 2em;
+  }
+
+  aside p,
+  .description p {
+    font-size: 1em;
+  }
+
+  .rodape {
+    font-size: 1em;
+  }
 }
