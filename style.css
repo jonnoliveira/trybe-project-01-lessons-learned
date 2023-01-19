@@ -1,4 +1,4 @@
-/* * {
+* {
   margin: 0;
   padding: 0;
   font-family: Poppins, sans-serif;
@@ -37,7 +37,7 @@ header h1 {
   text-shadow: 2px 2px rgb(86, 115, 163);
 }
 
-.header .icons {
+.icons {
   margin: 10px;
   text-align: center;
 }
@@ -113,22 +113,22 @@ aside p {
   margin: 20px;
 }
 
-.licoes_aprendidas {
+.licoes-aprendidas {
   text-align: left;
   padding-left: 25px;
 }
 
-.licoes_aprendidas li {
+.licoes-aprendidas li {
   font-size: 14px;
   margin-top: 7px;
 }
 
-.licoes_a_aprender {
+.licoes-a-aprender {
   text-align: left;
   padding-left: 25px;
 }
 
-.licoes_a_aprender li {
+.licoes-a-aprender li {
   font-size: 14px;
 }
 
@@ -199,13 +199,13 @@ td {
     line-height: 7vh;
   }
 
-  .licoes_aprendidas,
-  .licoes_a_aprender {
+  .licoes-a-aprender,
+  .licoes-a-aprender {
     margin-left: 2em;
   }
 
-  .licoes_aprendidas li,
-  .licoes_a_aprender li {
+  .licoes-aprendidas li,
+  .licoes-a-aprender li {
     font-size: 1.2em;
   }
 
@@ -272,8 +272,8 @@ td {
     line-height: 6vh;
   }
 
-  .licoes_aprendidas li,
-  .licoes_a_aprender li {
+  .licoes-aprendidas li,
+  .licoes-a-aprender li {
     font-size: 1.1em;
   }
 
@@ -319,4 +319,4 @@ td {
   .rodape {
     font-size: 1em;
   }
-} */
+}
