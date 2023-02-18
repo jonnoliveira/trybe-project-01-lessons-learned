@@ -2,7 +2,7 @@
 
 ## Esse projeto tinha como objetivo a aprovação final no módulo de `front-end` do curso da [Trybe](https://www.betrybe.com/) :green_heart:
 
-## Acesse o projeto clicando [aqui](https://jonnoliveira.github.io/trybe-project-16-recipes-app/)(:target="_blank")! :computer:
+## Acesse o projeto clicando [aqui](https://jonnoliveira.github.io/trybe-project-16-recipes-app/?target=_blank)! :computer:
  
 <details>
  
