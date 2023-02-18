@@ -76,7 +76,7 @@ Para alcançar esses objetivos utilizamos React, Context API, Hooks e chamadas a
 
 ## 100% :heavy_check_mark:
 
-![Project-Lessons-Learned-Grade](https://github.com/jonnoliveira/trybe-project-01-lessons-learned/blob/main/images/grade_lessons_learned.png)
+![Project-Lessons-Learned-Grade](https://github.com/jonnoliveira/trybe-project-01-lessons-learned/blob/main/images/grade_lessons_learned.png){:target="_blank"}
 
 </details> 
  
