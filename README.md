@@ -1,10 +1,8 @@
-# PROJETO 16 - RECIPES APP :computer:
+# PROJETO 01 - LESSONS LEARNED :computer:
 
-## Esse projeto tinha como objetivo a aprovação final no módulo de `front-end` do curso da [Trybe](https://www.betrybe.com/) :green_heart:
+## Esse projeto pertence ao módulo de `fundamentos` do curso da [Trybe](https://www.betrybe.com/) :green_heart:
 
-## Acesse o projeto clicando [aqui](https://jonnoliveira.github.io/trybe-project-16-recipes-app/)! :computer:
-
-%md <a href="https://google.com" target="_blank">google link</a>
+## Acesse o projeto clicando [aqui](https://jonnoliveira.github.io/trybe-project-01-lessons-learned/)! :computer:
  
 <details>
  
