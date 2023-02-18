@@ -1,6 +1,6 @@
-# PROJETO 01 - LESSONS LEARNED :computer:
+# PROJETO 16 - RECIPES APP :computer:
 
-## Esse projeto pertence ao módulo de `fundamentos` do curso da [Trybe](https://www.betrybe.com/) :green_heart:
+## Esse projeto tinha como objetivo a aprovação no módulo de `front-end` do curso da [Trybe](https://www.betrybe.com/) :green_heart:
 
 ## Acesse o projeto clicando [aqui](https://jonnoliveira.github.io/trybe-project-16-recipes-app/)! :computer:
  
@@ -12,7 +12,7 @@
   
 </summary>
 
-O projeto Recipes app foi orijetado em grupo e tinha como objetivo desenvolver um web app de receitas com prioridade para versão mobile. Nesse app o usuário poderia buscar o alimento ou bebida ao clicar no botão de pesquisa ou filtrar com os botões específicos de acordo com sua vontade. Além disso é possível favoritar, compartilhar o link facilmente e acompanhar a preparação de cada receita.
+O projeto Recipes app foi projetado em grupo e tinha como objetivo desenvolver um web app de receitas com prioridade para versão mobile. Nesse app o usuário poderia buscar o alimento ou bebida ao clicar no botão de pesquisa ou filtrar com os botões específicos de acordo com sua vontade. Além disso é possível favoritar, compartilhar o link facilmente e acompanhar a preparação de cada receita.
 
 Para alcançar esses objetivos utilizamos React, Context API, Hooks e chamadas a API para dinamismo e funções da aplicação. Já com RTL/Jest pudemos testar e garantir a boa funcionalidade do app. A estruturação e diversificação do trabalho foi coordenada através da metodologia ágil Kanban. Veja mais abaixo!
   
