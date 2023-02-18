@@ -75,7 +75,7 @@ No projeto Lessons Learned utilizei as principais tags HTML para montar a estrut
 
 ## 100% :heavy_check_mark:
 
-![Project-Lessons-Learned-Grade](https://github.com/jonnoliveira/trybe-project-01-lessons-learned/blob/main/images/grade_lessons_learned.png){:target="_blank"}
+![Project-Lessons-Learned-Grade](https://github.com/jonnoliveira/trybe-project-01-lessons-learned/blob/main/images/grade_lessons_learned.png)
 
 </details> 
  
