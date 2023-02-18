@@ -1,6 +1,6 @@
 # PROJETO 16 - RECIPES APP :computer:
 
-## Esse projeto tinha como objetivo a aprovação no módulo de `front-end` do curso da [Trybe](https://www.betrybe.com/) :green_heart:
+## Esse projeto tinha como objetivo a aprovação final no módulo de `front-end` do curso da [Trybe](https://www.betrybe.com/) :green_heart:
 
 ## Acesse o projeto clicando [aqui](https://jonnoliveira.github.io/trybe-project-16-recipes-app/)! :computer:
  
