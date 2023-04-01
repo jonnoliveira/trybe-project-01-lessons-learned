@@ -4,6 +4,12 @@
 
 ## Acesse o projeto clicando [aqui](https://jonnoliveira.github.io/trybe-project-01-lessons-learned/)! :computer:
  
+### Stacks utilizadas no desenvolvimento:
+<div style="display: inline_block"><br>
+<img alt="Fred-HTML" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+<img alt="Fred-CSS" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+</div>
+ 
 <details>
  
 <summary>
